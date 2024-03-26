@@ -1,0 +1,80 @@
+[
+    {
+      "id": 1,
+      "name": "To Kill a Mockingbird",
+      "author": "Harper Lee",
+      "image": "https://m.media-amazon.com/images/I/811NqsxadrS._AC_UF1000,1000_QL80_.jpg",
+      "review": "A timeless classic that explores racial injustice and the moral courage of a small-town lawyer, Atticus Finch, as he defends a black man falsely accused of a crime. Harper Lee's novel is a profound and moving portrayal of human dignity and the importance of standing up for what is right.",
+      "totalPages": 324,
+      "rating": 4.8,
+      "category": "Fiction",
+      "tags": ["Classic", "Legal Drama"],
+      "publisher": "J.B. Lippincott & Co.",
+      "yearOfPublishing": 1960
+    },
+    {
+      "id": 2,
+      "name": "The Catcher in the Rye",
+      "author": "J.D. Salinger",
+      "image": "https://images-eu.ssl-images-amazon.com/images/I/7108sdEUEGL._AC_UL210_SR210,210_.jpg",
+      "review": "J.D. Salinger's seminal novel captures the disillusionment and alienation of adolescence through the eyes of Holden Caulfield, a rebellious and introspective teenager. A poignant exploration of identity, innocence, and the struggle to find one's place in the world.",
+      "totalPages": 214,
+      "rating": 4.6,
+      "category": "Fiction",
+      "tags": ["Coming-of-Age", "Bildungsroman"],
+      "publisher": "Little, Brown and Company",
+      "yearOfPublishing": 1951
+    },
+    {
+      "id": 3,
+      "name": "The Hitchhiker's Guide to the Galaxy",
+      "author": "Douglas Adams",
+      "image": "https://m.media-amazon.com/images/I/51x53xtKI0L.jpg",
+      "review": "Douglas Adams' wildly imaginative and hilarious sci-fi comedy follows the misadventures of Arthur Dent, who is whisked away moments before the Earth is demolished to make way for a hyperspace bypass. A witty and satirical romp through the cosmos, filled with eccentric characters and mind-bending concepts.",
+      "totalPages": 216,
+      "rating": 4.7,
+      "category": "Science Fiction",
+      "tags": ["Comedy", "Space Adventure"],
+      "publisher": "Pan Books",
+      "yearOfPublishing": 1979
+    },
+    {
+      "id": 4,
+      "name": "The Kite Runner",
+      "author": "Khaled Hosseini",
+      "image": "https://m.media-amazon.com/images/I/81LVEH25iJL._AC_UF1000,1000_QL80_.jpg",
+      "review": "Khaled Hosseini's powerful and emotionally gripping novel explores the complexities of friendship, betrayal, and redemption against the backdrop of tumultuous events in Afghanistan. A poignant and unforgettable story of guilt, atonement, and the unbreakable bond of a shared past.",
+      "totalPages": 371,
+      "rating": 4.7,
+      "category": "Fiction",
+      "tags": ["Historical Fiction", "Cultural"],
+      "publisher": "Riverhead Books",
+      "yearOfPublishing": 2003
+    },
+    {
+      "id": 5,
+      "name": "The Hunger Games",
+      "author": "Suzanne Collins",
+      "image": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1586722975l/2767052._SY475_.jpg",
+      "review": "Suzanne Collins' gripping dystopian novel follows Katniss Everdeen, a brave and resourceful young woman forced to participate in the brutal Hunger Games, a televised fight to the death among teenagers. A thrilling and thought-provoking exploration of power, survival, and rebellion.",
+      "totalPages": 374,
+      "rating": 4.5,
+      "category": "Young Adult",
+      "tags": ["Dystopian", "Action"],
+      "publisher": "Scholastic Press",
+      "yearOfPublishing": 2008
+    },
+    {
+      "id": 6,
+      "name": "The Alchemist",
+      "author": "Paulo Coelho",
+      "image": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1654371463i/18144590.jpg",
+      "review": "Paulo Coelho's inspirational fable follows the journey of a young shepherd boy named Santiago as he travels in pursuit of his Personal Legend. A powerful and transformative tale that encourages readers to follow their dreams and listen to their hearts.",
+      "totalPages": 197,
+      "rating": 4.6,
+      "category": "Fiction",
+      "tags": ["Inspirational", "Philosophical"],
+      "publisher": "HarperCollins",
+      "yearOfPublishing": 1988
+    }
+   ]
